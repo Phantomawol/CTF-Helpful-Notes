@@ -1,5 +1,5 @@
 # CTF-Helpful-Notes
-Storing things that would help on CTFs
+Storing things that would help on CTFs. NOTE: I do not own these tools nor do I claim to. This is just a place to store tools I find useful to use on CTF events.
 
 <h2>Tools</h2>
 
@@ -7,4 +7,5 @@ Storing things that would help on CTFs
 	<li>Nmap: Network scanning</li>
 	<li>Binwalk: Analyzing, reverse engineering, & extracting firmware images</li>
 	<li>Recon-ng: Osint tool you link API keys to get information from social media sites on a company or person.</li>
+	<li>Netcat: Unix tool that reads and writes data across network connections using TCP or UDP protocol. [Taken from Kali Linux's tool page]
 </ul>
