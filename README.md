@@ -1,5 +1,6 @@
 # CTF-Helpful-Notes
-Storing things that would help on CTFs. NOTE: I do not own these tools nor do I claim to. This is just a place to store tools I find useful to use on CTF events.
+Storing things that would help on CTFs. 
+NOTE: I do not own these tools nor do I claim to. This is just a place to store tools I find useful to use on CTF events.
 
 <h2>Tools</h2>
 
