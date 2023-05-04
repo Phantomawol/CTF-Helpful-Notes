@@ -1,6 +1,6 @@
 # CTF-Helpful-Notes
 Storing things that would help on CTFs. 
-NOTE: I do not own these tools nor do I claim to. This is just a place to store tools I find useful to use on CTF events.
+NOTE: I do not own these tools nor do I claim to. This is just a place to store tools I find useful to use on CTF events. If you are unsure how to use a tool listed below or one you found: Remember to use the -h command on a tool or read the man page.
 
 <h2>Tools</h2>
 
@@ -10,4 +10,5 @@ NOTE: I do not own these tools nor do I claim to. This is just a place to store 
 	<li>Recon-ng: Osint tool you link API keys to get information from social media sites on a company or person. NOTE: You will need to add your own API keys as they do not provide that.</li>
 	<li>Netcat: Unix tool that reads and writes data across network connections using TCP or UDP protocol. [Taken from Kali Linux's tool page]</li>
 	<li>CherryTree: Note taking tool that is built into Kali linux. Useful to keep notes for your CTF. Worth installing on any linux system.</li>
+	<li>hashid: Run this to check a hash that you obtain to tell what it is. This will help to avoid having to bruteforce with hashcat/johntheripper.</li>
 </ul>
