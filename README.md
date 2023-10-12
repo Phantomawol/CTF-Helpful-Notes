@@ -13,4 +13,5 @@ NOTE: I do not own these tools nor do I claim to. This is just a place to store 
 	<li>hashid: Run this to check a hash that you obtain to tell what it is. This will help to avoid having to bruteforce with hashcat/johntheripper.</li>
 	<li>pdfinfo: Allows you to see all of the metadata on a PDF</li>
 	<li>exiftool: ExifTool is used to read and write metadata in various file types, such as JPEG images [Description taken from TryHackMe]. Also helps with OSINT as you can take the coordinates of the image to track down where it was taken.</li>
+	<li>QRCodeRaptor - This allows you to upload QR codes or use your built in camera to scan a QR Code. It's a safe way to scan vs using your phone. Can be used in a real life case or CTF.</li>
 </ul>
