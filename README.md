@@ -6,7 +6,7 @@
 
 <ul>
 	<li>Network scanning tools</li>
-		<ol>Nmap: https://github.com/nmap/nmap</ol>
+		<ol><b>Nmap</b>: https://github.com/nmap/nmap</ol>
 	<li>Binwalk: Analyzing, reverse engineering, & extracting firmware images</li>
 	<li>Recon-ng: Osint tool you link API keys to get information from social media sites on a company or person. NOTE: You will need to add your own API keys as they do not provide that.</li>
 	<li>Netcat: Unix tool that reads and writes data across network connections using TCP or UDP protocol. [Taken from Kali Linux's tool page]</li>
