@@ -15,4 +15,7 @@ NOTE: I do not own these tools nor do I claim to. This is just a place to store 
 	<li>exiftool: ExifTool is used to read and write metadata in various file types, such as JPEG images [Description taken from TryHackMe]. Also helps with OSINT as you can take the coordinates of the image to track down where it was taken.</li>
 	<li>QRCodeRaptor - This allows you to upload QR codes or use your built in camera to scan a QR Code. It's a safe way to scan vs using your phone. Can be used in a real life case or CTF.</li>
 	<li>strace - (edit this later with details)</li>
+	<li>C2 tools (Note: I do not own these, but use them for CTFs when needed. Found these out from someone and going to try them in an upcoming CTF if able.):</li>
+		<ol>Sliver (No GUI) - https://github.com/BishopFox/sliver</ol>
+		<ol>Havoc (Has GUI) - https://github.com/HavocFramework/Havoc</ol>
 </ul>
