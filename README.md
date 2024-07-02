@@ -9,6 +9,7 @@
 		<ol><b>Nmap</b>: https://github.com/nmap/nmap</ol>
 	<li>Reverse Engineering Tools</li>
 		<ol><b>Binwalk:</b> Analyzing, reverse engineering, & extracting firmware images URL: https://github.com/ReFirmLabs/binwalk?tab=readme-ov-file (<b>Note:</b> This is also installed on Kali linux by default)</ol>
+		<ol><b>strace</b> - Review the github for the most information, but related to ptrace. URL: https://github.com/strace/strace</ol>
 	<li>OSINT Tools</li>
 		<ol><b>Recon-ng:</b> Osint tool you link API keys to get information from social media sites on a company or person. <b>NOTE:</b> You will need to add your own API keys as they do not provide that.</ol>
 		<ol><b>Exiftool:</b> ExifTool is used to read and write metadata in various file types, such as JPEG images [Description taken from TryHackMe]. Also helps with OSINT as you can take the coordinates of the image to track down where it was taken.URL: https://github.com/exiftool/exiftool</ol>
